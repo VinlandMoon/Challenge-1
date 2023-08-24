@@ -1,13 +1,10 @@
-# Challenge-1
-# <Your-Project-Title>
+# <Horiseon-Code-Refactor-Website>
 
 ## Description
 
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- I created this project to make information accessible to people with disabilities by incorporating standard website accessibility features.
+- Making this website has solved the problem of accessibility by providing easy and convenient access to information. This will lead to a better user experience.
+- Making this project, I learned how to use semantic HTML tags and properly comment CSS. I also gained knowledge on code refactoring to improve website accessibility.
 
 
 
