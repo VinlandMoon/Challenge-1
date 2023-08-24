@@ -3,7 +3,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
@@ -17,7 +16,7 @@ Provide a short description explaining the what, why, and how of your project. U
 N/A
 ## Usage
 
-Simply click on the depled link to visit the site.
+Simply click on the deployed link to visit the site.
 
 Deployable Link --> [Horiseon](https://vinlandmoon.github.io/Challenge-1/)
 
